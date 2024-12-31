@@ -33,7 +33,14 @@ This project is a C++ program that simulates an ATM system. It supports user aut
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nouma11/atm-management-system.git
-## Exemple
+
+
+## Usage
+
+After setting up the program, run the executable to begin interacting with the ATM system. Below is an example of how the interaction works:
+
+### Example Interaction
+```plaintext
 ---------------------------------
             Login Screen
 ---------------------------------
